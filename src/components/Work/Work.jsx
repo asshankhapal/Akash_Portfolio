@@ -67,22 +67,22 @@ const Work = () => {
       {/* Modal Container */}
       {selectedProject && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-90 p-4">
-          <div className="bg-gray-900 rounded-xl shadow-2xl lg:w-full w-[90%] max-w-3xl overflow-hidden relative">
-            <div className="flex justify-end p-4">
+          <div className="bg-gray-900 rounded-xl shadow-2xl w-[95%] max-w-2xl overflow-hidden relative">
+            <div className="flex justify-end p-3">
               <button
                 onClick={handleCloseModal}
-                className="text-white text-3xl font-bold hover:text-purple-500"
+                className="text-white text-2xl font-bold hover:text-purple-500 bg-gray-800 hover:bg-gray-700 rounded-full w-8 h-8 flex items-center justify-center transition-colors duration-200"
               >
                 &times;
               </button>
             </div>
 
             <div className="flex flex-col">
-              <div className="w-full flex justify-center bg-gray-900 px-4 py-4">
+              <div className="w-full flex justify-center bg-gray-900 px-4 py-2">
                 <img
                   src={selectedProject.image}
                   alt={selectedProject.title}
-                  className="w-full max-w-4xl h-auto object-contain rounded-xl shadow-2xl"
+                  className="w-full max-w-lg h-auto object-contain rounded-xl shadow-2xl"
                 />
               </div>
               <div className="lg:p-8 p-6">
