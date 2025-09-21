@@ -209,11 +209,11 @@ export const achievements = [
       id: 1,
       title: "VidyaAI - Your AI Teaching Ally for Every Classroom",
       description:
-        "VidyaAI is an intelligent, multilingual AI assistant built for real-world classrooms where one teacher handles many grades with limited resources. With just voice or text input, it creates local-language lessons, smart worksheets, blackboard-friendly visuals, and clear explanations tailored to every learning level. It even checks student plans weekly lessons, and suggests playful, low-cost activities — all designed to lighten the teacher’s load and uplift every child’s learning.",
+        "VidyaAI is an intelligent, multilingual AI assistant built for real-world classrooms where one teacher handles many grades with limited resources. With just voice or text input, it creates local-language lessons, smart worksheets, blackboard-friendly visuals, and clear explanations tailored to every learning level. It even checks student plans weekly lessons, and suggests playful, low-cost activities — all designed to lighten the teacher's load and uplift every child's learning.",
       image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/asshankhapal/VidyaAI-frontend",
-      
+      webapp: "https://vidyaai-demo.vercel.app/",
     },
     {
       id: 2,
@@ -222,6 +222,7 @@ export const achievements = [
         "The IOT-enabled Piezoelectric Energy Harvesting Mat is engineered to transduce biomechanical energy from devotees footsteps into electrical power via the piezoelectric effect, accumulate it in an on-board energy storage module, and concurrently deploy integrated sensing and microcontroller-based analytics to quantify real-time footfall metrics. Leveraging Arduino-driven signal processing, coupled with cloud-connected IoT architecture, the system facilitates continuous monitoring of energy yield, storage status, and high-resolution visitor analytics for data-driven optimization. ",
       image: movierecLogo,
       tags: ["Cloud", "API", "Piezodisc"],
-      
+      github: "https://github.com/asshankhapal/teerth-urja",
+      webapp: "https://teerth-urja-demo.vercel.app/",
     },
   ];
