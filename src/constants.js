@@ -143,7 +143,7 @@ export const education = [
       date: "Apr 2021 - March 2023",
       grade: "73.83%",
       desc: "I completed my class 12 education from R.N.C. ARTS, J.D.B. COMMERCE , N.S.C. SCIENCE COLLEGE, NASHIK, under the SSC board, where I studied Physics, Chemistry, and Mathematics (PCM) with Electrical Engineering as Vocational Course.",
-      degree: "SSC(XII) - PCM with Electrical Engineering",
+      degree: "HSC(XII) - PCM with Electrical Engineering",
     },
     {
       id: 3,
