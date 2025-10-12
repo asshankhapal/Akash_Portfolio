@@ -21,7 +21,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Akash-s-Portfolio.git]
+git clone [https://github.com/asshankhapal/Akash_Portfolio.git]
 cd your-repo-name
 ````
 
@@ -47,4 +47,4 @@ npm run build
 ## 🌟 Credits
 
 This project was created with ❤️ by [Akash Shyam Shankhapal]
-If you like it, feel free to ⭐ this repository and share!
+

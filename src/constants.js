@@ -201,7 +201,7 @@ export const achievements = [
       description:
         "The platform is an AI-powered learning ecosystem that organizes free resources into structured roadmaps. It auto-generates personalized courses with progress tracking and real-time feedback. Learners receive daily tasks, quizzes, and recommendations through an intuitive calendar. Interactive practice ensures better engagement and skill mastery. Built-in career guidance helps learners align knowledge with future opportunities. Its goal is to make learning accessible, affordable, and self-directed for everyone.",
       image: githubdetLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
+      tags: [  "React JS","JavaScript", "Fastapi", "MongoDB", "API"],
       github: "https://github.com/asshankhapal/anvikshai-frontend",
       webapp: "https://techaialpha.vercel.app/",
     },
@@ -211,7 +211,7 @@ export const achievements = [
       description:
         "VidyaAI is an intelligent, multilingual AI assistant built for real-world classrooms where one teacher handles many grades with limited resources. With just voice or text input, it creates local-language lessons, smart worksheets, blackboard-friendly visuals, and clear explanations tailored to every learning level. It even checks student plans weekly lessons, and suggests playful, low-cost activities — all designed to lighten the teacher's load and uplift every child's learning.",
       image: csprepLogo,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+      tags: ["React JS", "MySQL", "Django", "JavaScript"],
       github: "https://github.com/asshankhapal/VidyaAI-frontend",
       webapp: "https://vidyaai-demo.vercel.app/",
     },
